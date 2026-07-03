@@ -1,0 +1,637 @@
+[
+  {
+    "instruction": "Give details about Abbottabad University of Science and Technology (AUST)",
+    "input": "",
+    "output": "Abbottabad University of Science and Technology (AUST) is a Public university located in Abbottabad. Contact: +92 (992) 402 117."
+  },
+  {
+    "instruction": "Give details about ABDUL WALI KHAN UNIVERSITY",
+    "input": "",
+    "output": "ABDUL WALI KHAN UNIVERSITY is a Public university located in Mardan. Contact: +92-937-843356, +92-937-840499."
+  },
+  {
+    "instruction": "Give details about AIR UNIVERSITY",
+    "input": "",
+    "output": "AIR UNIVERSITY is a Public university located in Islamabad. Contact: -9262525."
+  },
+  {
+    "instruction": "Give details about ALLAMA IQBAL OPEN UNIVERSITY",
+    "input": "",
+    "output": "ALLAMA IQBAL OPEN UNIVERSITY is a Public university located in Islamabad. Contact: -650."
+  },
+  {
+    "instruction": "Give details about BAHAUDDIN ZAKARIYA UNIVERSITY",
+    "input": "",
+    "output": "BAHAUDDIN ZAKARIYA UNIVERSITY is a Public university located in Multan. Contact: -9210038."
+  },
+  {
+    "instruction": "Give details about BAHRIA UNIVERSITY",
+    "input": "",
+    "output": "BAHRIA UNIVERSITY is a Public university located in Islamabad. Contact: -209."
+  },
+  {
+    "instruction": "Give details about Balochistan University of Engineering & Technology",
+    "input": "",
+    "output": "Balochistan University of Engineering & Technology is a Public university located in Khuzdar. Contact: +92-848-412834, +92-848-502100."
+  },
+  {
+    "instruction": "Give details about BALOCHISTAN UNIVERSITY OF INFORMATION TECHNOLOGY & MANAGEMENT SCIENCES",
+    "input": "",
+    "output": "BALOCHISTAN UNIVERSITY OF INFORMATION TECHNOLOGY & MANAGEMENT SCIENCES is a Public university located in Quetta. Contact: +92-81-2881042081, +92-81-9202."
+  },
+  {
+    "instruction": "Give details about BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI",
+    "input": "",
+    "output": "BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI is a Public university located in Karachi. Contact: +92-21-32744020, +92-21-327440."
+  },
+  {
+    "instruction": "Give details about COMSATS INSTITUTE OF INFORMATION TECHNOLOGY",
+    "input": "",
+    "output": "COMSATS INSTITUTE OF INFORMATION TECHNOLOGY is a Public university located in Islamabad. Contact: 051-90495112."
+  },
+  {
+    "instruction": "Give details about DOW UNIVERSITY OF HEALTH SCIENCES",
+    "input": "",
+    "output": "DOW UNIVERSITY OF HEALTH SCIENCES is a Public university located in Karachi. Contact: -99248334."
+  },
+  {
+    "instruction": "Give details about DAWOOD UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+    "input": "",
+    "output": "DAWOOD UNIVERSITY OF ENGINEERING & TECHNOLOGY is a Public university located in Karachi. Contact: +92-21-99230701, +92-21-992311."
+  },
+  {
+    "instruction": "Give details about FATIMA JINNAH MEDICAL UNIVERSITY, LAHORE",
+    "input": "",
+    "output": "FATIMA JINNAH MEDICAL UNIVERSITY, LAHORE is a Public university located in Lahore. Contact: 99200572-8, 99203718 111-222-."
+  },
+  {
+    "instruction": "Give details about FEDERAL URDU UNIVERSITY OF ARTS, SCIENCES & TECHNOLOGY",
+    "input": "",
+    "output": "FEDERAL URDU UNIVERSITY OF ARTS, SCIENCES & TECHNOLOGY is a Public university located in Islamabad. Contact: -9252883."
+  },
+  {
+    "instruction": "Give details about GHAZI UNIVERSITY",
+    "input": "",
+    "output": "GHAZI UNIVERSITY is a Public university located in Dera Ghazi Khan. Contact: -9260352."
+  },
+  {
+    "instruction": "Give details about GOMAL UNIVERSITY",
+    "input": "",
+    "output": "GOMAL UNIVERSITY is a Public university located in Dera Ismail Khan. Contact: +92-966-750266, +92-966-750279."
+  },
+  {
+    "instruction": "Give details about GOVERNMENT COLLEGE UNIVERSITY",
+    "input": "",
+    "output": "GOVERNMENT COLLEGE UNIVERSITY is a Public university located in Faisalabad. Contact: +92-41-9200670, +92-41-9201266."
+  },
+  {
+    "instruction": "Give details about GOVERNMENT COLLEGE UNIVERSITY, LAHORE",
+    "input": "",
+    "output": "GOVERNMENT COLLEGE UNIVERSITY, LAHORE is a Public university located in Lahore. Contact: +92-42-111 000 010."
+  },
+  {
+    "instruction": "Give details about Government College Women University Faisalabad",
+    "input": "",
+    "output": "Government College Women University Faisalabad is a Public university located in Faisalabad. Contact: -9220014."
+  },
+  {
+    "instruction": "Give details about GOVERNMENT COLLEGE FOR WOMEN UNIVERSITY, SIALKOT",
+    "input": "",
+    "output": "GOVERNMENT COLLEGE FOR WOMEN UNIVERSITY, SIALKOT is a Public university located in Sialkot. Contact: +92-52-925 0170, +92-52-925 05."
+  },
+  {
+    "instruction": "Give details about GOVERNMENT SADIQ COLLEGE WOMEN UNIVERSITY",
+    "input": "",
+    "output": "GOVERNMENT SADIQ COLLEGE WOMEN UNIVERSITY is a Public university located in Bahawalpur. Contact: +92-62-2284803, +92-62 9250075."
+  },
+  {
+    "instruction": "Give details about HAZARA UNIVERSITY",
+    "input": "",
+    "output": "HAZARA UNIVERSITY is a Public university located in Mansehra. Contact: +92-997-530732, +92-997-414121."
+  },
+  {
+    "instruction": "Give details about INFORMATION TECHNOLOGY UNIVERSITY OF THE PUNJAB",
+    "input": "",
+    "output": "INFORMATION TECHNOLOGY UNIVERSITY OF THE PUNJAB is a Public university located in Lahore. Contact: +92-42-99232124, +9242-9923253."
+  },
+  {
+    "instruction": "Give details about INSTITUTE OF BUSINESS ADMINISTRATION",
+    "input": "",
+    "output": "INSTITUTE OF BUSINESS ADMINISTRATION is a Public university located in Karachi. Contact: 92-21-38104700."
+  },
+  {
+    "instruction": "Give details about INSTITUTE OF MANAGEMENT SCIENCES",
+    "input": "",
+    "output": "INSTITUTE OF MANAGEMENT SCIENCES is a Public university located in Peshawar. Contact: 091-9217408,091-9217443,091-9."
+  },
+  {
+    "instruction": "Give details about INSTITUTE OF SPACE TECHNOLOGY",
+    "input": "",
+    "output": "INSTITUTE OF SPACE TECHNOLOGY is a Public university located in Islamabad. Contact: +92-51-9075100, +92-51-9273310."
+  },
+  {
+    "instruction": "Give details about INTERNATIONAL ISLAMIC UNIVERSITY",
+    "input": "",
+    "output": "INTERNATIONAL ISLAMIC UNIVERSITY is a Public university located in Islamabad. Contact: +92-51-9257988, +92-51-9019616."
+  },
+  {
+    "instruction": "Give details about ISLAMIA COLLEGE UNIVERSITY",
+    "input": "",
+    "output": "ISLAMIA COLLEGE UNIVERSITY is a Public university located in Peshawar. Contact: -9216008."
+  },
+  {
+    "instruction": "Give details about ISLAMIA UNIVERSITY",
+    "input": "",
+    "output": "ISLAMIA UNIVERSITY is a Public university located in Bahawalpur. Contact: 92 - 62 - 9250235."
+  },
+  {
+    "instruction": "Give details about JINNAH SINDH MEDICAL UNIVERSITY",
+    "input": "",
+    "output": "JINNAH SINDH MEDICAL UNIVERSITY is a Public university located in Karachi. Contact: +92-21-99204776, +92-21- 35223."
+  },
+  {
+    "instruction": "Give details about KARAKURUM INTERNATIONAL UNIVERSITY",
+    "input": "",
+    "output": "KARAKURUM INTERNATIONAL UNIVERSITY is a Public university located in Gilgit. Contact: -966159."
+  },
+  {
+    "instruction": "Give details about KHAWAJA FREED UNIVERSITY OF ENGINEERING & INFORMATION TECHNOLOGY",
+    "input": "",
+    "output": "KHAWAJA FREED UNIVERSITY OF ENGINEERING & INFORMATION TECHNOLOGY is a Public university located in Rahim Yar Khan. Contact: +92-68-9239121, +92-68-9239122."
+  },
+  {
+    "instruction": "Give details about KHYBER MEDICAL UNIVERSITY",
+    "input": "",
+    "output": "KHYBER MEDICAL UNIVERSITY is a Public university located in Peshawar. Contact: -9217694."
+  },
+  {
+    "instruction": "Give details about KHYBER PAKHTUNKHWA AGRICULTURAL UNIVERSITY",
+    "input": "",
+    "output": "KHYBER PAKHTUNKHWA AGRICULTURAL UNIVERSITY is a Public university located in Peshawar. Contact: +92-91-9216518091, +92--921657."
+  },
+  {
+    "instruction": "Give details about KING EDWARD MEDICAL UNIVERSITY",
+    "input": "",
+    "output": "KING EDWARD MEDICAL UNIVERSITY is a Public university located in Lahore. Contact: +92-42-99211151, +92-42-373540."
+  },
+  {
+    "instruction": "Give details about KINNAIRD COLLEGE FOR WOMEN",
+    "input": "",
+    "output": "KINNAIRD COLLEGE FOR WOMEN is a Public university located in Lahore. Contact: -99203735."
+  },
+  {
+    "instruction": "Give details about KOHAT UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+    "input": "",
+    "output": "KOHAT UNIVERSITY OF SCIENCE AND TECHNOLOGY is a Public university located in Kohat. Contact: +92-922-554578, +92-922-529147."
+  },
+  {
+    "instruction": "Give details about LAHORE COLLEGE FOR WOMEN UNIVERSITY",
+    "input": "",
+    "output": "LAHORE COLLEGE FOR WOMEN UNIVERSITY is a Public university located in Lahore. Contact: -99203038."
+  },
+  {
+    "instruction": "Give details about LIAQUAT UNIVERSITY OF MEDICAL & HEALTH SCIENCES",
+    "input": "",
+    "output": "LIAQUAT UNIVERSITY OF MEDICAL & HEALTH SCIENCES is a Public university located in Jamshoro. Contact: +92-22-9213305, +92-22-9213307."
+  },
+  {
+    "instruction": "Give details about MEHRAN UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+    "input": "",
+    "output": "MEHRAN UNIVERSITY OF ENGINEERING & TECHNOLOGY is a Public university located in Jamshoro. Contact: +92 (22) 2772250-73."
+  },
+  {
+    "instruction": "Give details about MIRPUR UNIVERSITY OF SCIENCE & TECHNOLOGY",
+    "input": "",
+    "output": "MIRPUR UNIVERSITY OF SCIENCE & TECHNOLOGY is a Public university located in Mirpur. Contact: -966769."
+  },
+  {
+    "instruction": "Give details about MUHAMMAD NAWAZ SHAREEF UNIVERSITY OF AGRICULTURE",
+    "input": "",
+    "output": "MUHAMMAD NAWAZ SHAREEF UNIVERSITY OF AGRICULTURE is a Public university located in Multan. Contact: -18403329."
+  },
+  {
+    "instruction": "Give details about MUHAMMAD NAWAZ SHARIF UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+    "input": "",
+    "output": "MUHAMMAD NAWAZ SHARIF UNIVERSITY OF ENGINEERING & TECHNOLOGY is a Public university located in Multan. Contact: -4482422."
+  },
+  {
+    "instruction": "Give details about NED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+    "input": "",
+    "output": "NED UNIVERSITY OF ENGINEERING & TECHNOLOGY is a Public university located in Karachi. Contact: +92-21-99261253, +92-21-99261."
+  },
+  {
+    "instruction": "Give details about NFC INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "input": "",
+    "output": "NFC INSTITUTE OF ENGINEERING & TECHNOLOGY is a Public university located in Multan. Contact: +92-61-9220044, +92-61-9220012."
+  },
+  {
+    "instruction": "Give details about NATIONAL COLLEGE OF ARTS",
+    "input": "",
+    "output": "NATIONAL COLLEGE OF ARTS is a Public university located in Lahore. Contact: +92 42 99210599, 99210601."
+  },
+  {
+    "instruction": "Give details about NATIONAL DEFENSE UNIVERSITY",
+    "input": "",
+    "output": "NATIONAL DEFENSE UNIVERSITY is a Public university located in Islamabad. Contact: 051-9262066-68."
+  },
+  {
+    "instruction": "Give details about NATIONAL TEXTILE UNIVERSITY",
+    "input": "",
+    "output": "NATIONAL TEXTILE UNIVERSITY is a Public university located in Faisalabad. Contact: 92 (041) 9230081-90."
+  },
+  {
+    "instruction": "Give details about NATIONAL UNIVERSITY OF MEDICAL SCIENCES",
+    "input": "",
+    "output": "NATIONAL UNIVERSITY OF MEDICAL SCIENCES is a Public university located in Rawalpindi. Contact: -9270636."
+  },
+  {
+    "instruction": "Give details about NATIONAL UNIVERSITY OF MODERN LANGUAGES (NUML)",
+    "input": "",
+    "output": "NATIONAL UNIVERSITY OF MODERN LANGUAGES (NUML) is a Public university located in Islamabad. Contact: +92-51-111-11-6878, +92-51-908."
+  },
+  {
+    "instruction": "Give details about NATIONAL UNIVERSITY OF SCIENCES & TECHNOLOGY",
+    "input": "",
+    "output": "NATIONAL UNIVERSITY OF SCIENCES & TECHNOLOGY is a Public university located in Islamabad. Contact: -6959."
+  },
+  {
+    "instruction": "Give details about PAKISTAN INSTITUTE OF DEVELOPMENT ECONOMICS (PIDE)",
+    "input": "",
+    "output": "PAKISTAN INSTITUTE OF DEVELOPMENT ECONOMICS (PIDE) is a Public university located in Islamabad. Contact: -18496057."
+  },
+  {
+    "instruction": "Give details about PAKISTAN INSTITUTE OF ENGINEERING & APPLIED SCIENCES",
+    "input": "",
+    "output": "PAKISTAN INSTITUTE OF ENGINEERING & APPLIED SCIENCES is a Public university located in Islamabad. Contact: +92 51 1111 74327."
+  },
+  {
+    "instruction": "Give details about PAKISTAN INSTITUTE OF FASHION & DESIGN",
+    "input": "",
+    "output": "PAKISTAN INSTITUTE OF FASHION & DESIGN is a Public university located in Lahore. Contact: 042-99232951-7."
+  },
+  {
+    "instruction": "Give details about PEOPLES UNIVERSITY OF MEDICAL & HEALTH SCIENCES FOR WOMEN",
+    "input": "",
+    "output": "PEOPLES UNIVERSITY OF MEDICAL & HEALTH SCIENCES FOR WOMEN is a Public university located in Nawabshah. Contact: -9370412."
+  },
+  {
+    "instruction": "Give details about PIR MEHR ALI SHAH ARID AGRICULTURE UNIVERSITY",
+    "input": "",
+    "output": "PIR MEHR ALI SHAH ARID AGRICULTURE UNIVERSITY is a Public university located in Rawalpindi. Contact: -9292063."
+  },
+  {
+    "instruction": "Give details about QUAID-E-AWAM UNIVERSITY OF ENGINEERING, SCIENCES & TECHNOLOGY",
+    "input": "",
+    "output": "QUAID-E-AWAM UNIVERSITY OF ENGINEERING, SCIENCES & TECHNOLOGY is a Public university located in Nawabshah. Contact: 0244-9370381-5."
+  },
+  {
+    "instruction": "Give details about QUAID-I-AZAM UNIVERSITY",
+    "input": "",
+    "output": "QUAID-I-AZAM UNIVERSITY is a Public university located in Islamabad. Contact: +92-051-9064 0000."
+  },
+  {
+    "instruction": "Give details about SARDAR BAHADUR KHAN WOMEN UNIVERSITY",
+    "input": "",
+    "output": "SARDAR BAHADUR KHAN WOMEN UNIVERSITY is a Public university located in Quetta. Contact: +92(081) 9213303."
+  },
+  {
+    "instruction": "Give details about SHAH ABDUL LATIF UNIVERSITY",
+    "input": "",
+    "output": "SHAH ABDUL LATIF UNIVERSITY is a Public university located in Khairpur. Contact: -9280274."
+  },
+  {
+    "instruction": "Give details about SHAHEED BENAZIR BHUTTO UNIVERSITY OF VETERINARY & ANIMAL SCIENCES",
+    "input": "",
+    "output": "SHAHEED BENAZIR BHUTTO UNIVERSITY OF VETERINARY & ANIMAL SCIENCES is a Public university located in Nawabshah. Contact: -322302."
+  },
+  {
+    "instruction": "Give details about SHAHEED BENAZIR BHUTTO UNIVERSITY, SHAHEED BENAZIRABAD",
+    "input": "",
+    "output": "SHAHEED BENAZIR BHUTTO UNIVERSITY, SHAHEED BENAZIRABAD is a Public university located in Nawabshah. Contact: +92-244-9370520, +92-244-93705."
+  },
+  {
+    "instruction": "Give details about SHAHEED BENAZIR BHUTTO WOMEN UNIVERSITY",
+    "input": "",
+    "output": "SHAHEED BENAZIR BHUTTO WOMEN UNIVERSITY is a Public university located in Peshawar. Contact: +92-91-9212422, +92-91-922 477."
+  },
+  {
+    "instruction": "Give details about SHAHEED MOHTARMA BENAZIR BHUTTO MEDICAL UNIVERSITY",
+    "input": "",
+    "output": "SHAHEED MOHTARMA BENAZIR BHUTTO MEDICAL UNIVERSITY is a Public university located in Larkana. Contact: +92-74-9410724, +92-74-9410908."
+  },
+  {
+    "instruction": "Give details about SHAHEED ZULFIQAR ALI BHUTTO MEDICAL UNIVERSITY",
+    "input": "",
+    "output": "SHAHEED ZULFIQAR ALI BHUTTO MEDICAL UNIVERSITY is a Public university located in Islamabad. Contact: (92) (51) (9107) 687."
+  },
+  {
+    "instruction": "Give details about SHAHEED ZULFIQAR ALI BHUTTO UNIVERSITY OF LAW",
+    "input": "",
+    "output": "SHAHEED ZULFIQAR ALI BHUTTO UNIVERSITY OF LAW is a Public university located in Karachi. Contact: -99206434."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF TECHNOLOGY (SHUHADA-E-ARMY PUBLIC SCHOOL)",
+    "input": "",
+    "output": "UNIVERSITY OF TECHNOLOGY (SHUHADA-E-ARMY PUBLIC SCHOOL) is a Public university located in Nowshera. Contact: 0923-560301."
+  },
+  {
+    "instruction": "Give details about SINDH AGRICULTURE UNIVERSITY",
+    "input": "",
+    "output": "SINDH AGRICULTURE UNIVERSITY is a Public university located in Hyderabad. Contact: -2765800."
+  },
+  {
+    "instruction": "Give details about SINDH MADRESATUL ISLAM UNIVERSITY",
+    "input": "",
+    "output": "SINDH MADRESATUL ISLAM UNIVERSITY is a Public university located in Karachi. Contact: +92-21-99211274, +92-21-992112."
+  },
+  {
+    "instruction": "Give details about SUKKUR INSTITUTE OF BUSINESS ADMINISTRATION",
+    "input": "",
+    "output": "SUKKUR INSTITUTE OF BUSINESS ADMINISTRATION is a Public university located in Sukkur. Contact: 071-5644000-05."
+  },
+  {
+    "instruction": "Give details about THE WOMEN UNIVERSITY",
+    "input": "",
+    "output": "THE WOMEN UNIVERSITY is a Public university located in Multan. Contact: 061-9200811."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF AGRICULTURE",
+    "input": "",
+    "output": "UNIVERSITY OF AGRICULTURE is a Public university located in Faisalabad. Contact: +92 41 9200161-70."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF AZAD JAMMU & KASHMIR",
+    "input": "",
+    "output": "UNIVERSITY OF AZAD JAMMU & KASHMIR is a Public university located in Muzaffarabad. Contact: -966666."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF BALOCHISTAN",
+    "input": "",
+    "output": "UNIVERSITY OF BALOCHISTAN is a Public university located in Quetta. Contact: -9211113."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF EDUCATION",
+    "input": "",
+    "output": "UNIVERSITY OF EDUCATION is a Public university located in Lahore. Contact: -99262177."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+    "input": "",
+    "output": "UNIVERSITY OF ENGINEERING & TECHNOLOGY is a Public university located in Peshawar. Contact: (+92-91)9216796-8."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+    "input": "",
+    "output": "UNIVERSITY OF ENGINEERING & TECHNOLOGY is a Public university located in Lahore. Contact: +92-42-99250201, +92-42-990292."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+    "input": "",
+    "output": "UNIVERSITY OF ENGINEERING & TECHNOLOGY is a Public university located in Taxila. Contact: +92 51-9047-400."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF FATA",
+    "input": "",
+    "output": "UNIVERSITY OF FATA is a Public university located in Kohat. Contact: +92-91-9218182, +92-91-9216427."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF GUJRAT",
+    "input": "",
+    "output": "UNIVERSITY OF GUJRAT is a Public university located in Gujrat. Contact: +92 (53) 3643112."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF HEALTH SCIENCES",
+    "input": "",
+    "output": "UNIVERSITY OF HEALTH SCIENCES is a Public university located in Lahore. Contact: +92-42-99231304-09, +92-42-111."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF KARACHI",
+    "input": "",
+    "output": "UNIVERSITY OF KARACHI is a Public university located in Karachi. Contact: 92.21.99261300-07."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF PESHAWAR",
+    "input": "",
+    "output": "UNIVERSITY OF PESHAWAR is a Public university located in Peshawar. Contact: -9216700."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF SARGODHA",
+    "input": "",
+    "output": "UNIVERSITY OF SARGODHA is a Public university located in Sargodha. Contact: -9230782."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF SCIENCE & TECHNOLOGY",
+    "input": "",
+    "output": "UNIVERSITY OF SCIENCE & TECHNOLOGY is a Public university located in Bunnu. Contact: -634671."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF SINDH",
+    "input": "",
+    "output": "UNIVERSITY OF SINDH is a Public university located in Jamshoro. Contact: -9414."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF SWABI",
+    "input": "",
+    "output": "UNIVERSITY OF SWABI is a Public university located in Swabi. Contact: -491084."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF SWAT",
+    "input": "",
+    "output": "UNIVERSITY OF SWAT is a Public university located in Swat. Contact: +92-946-924 00060946."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF VETERINARY & ANIMAL SCIENCES",
+    "input": "",
+    "output": "UNIVERSITY OF VETERINARY & ANIMAL SCIENCES is a Public university located in Lahore. Contact: 92-42-99211374, 99211449."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF THE PUNJAB",
+    "input": "",
+    "output": "UNIVERSITY OF THE PUNJAB is a Public university located in Lahore. Contact: +92-42-99231098-9, +92-42-3584."
+  },
+  {
+    "instruction": "Give details about VIRTUAL UNIVERSITY OF PAKISTAN",
+    "input": "",
+    "output": "VIRTUAL UNIVERSITY OF PAKISTAN is a Public university located in Lahore. Contact: -99203851."
+  },
+  {
+    "instruction": "Give details about WOMEN UNIVERSITY MARDAN",
+    "input": "",
+    "output": "WOMEN UNIVERSITY MARDAN is a Public university located in Mardan. Contact: (0937) 871 416."
+  },
+  {
+    "instruction": "Give details about WOMEN UNIVERSITY, SWABI",
+    "input": "",
+    "output": "WOMEN UNIVERSITY, SWABI is a Public university located in Swabi. Contact: +92 0938-224222."
+  },
+  {
+    "instruction": "Give details about LASBELA UNIVERSITY OF AGRICULTURE, WATER & MARINE SCIENCES",
+    "input": "",
+    "output": "LASBELA UNIVERSITY OF AGRICULTURE, WATER & MARINE SCIENCES is a Public university located in Lasbela. Contact: 0853-610846."
+  },
+  {
+    "instruction": "Give details about UNIVERSITY OF TURBAT",
+    "input": "",
+    "output": "UNIVERSITY OF TURBAT is a Public university located in Jazan. Contact: -414491."
+  },
+  {
+    "instruction": "Give details about Fatima Jinnah Women University",
+    "input": "",
+    "output": "Fatima Jinnah Women University is a Public university located in Rawalpindi. Contact: +92-51-9292901,+92-51-9292902."
+  },
+  {
+    "instruction": "Give details about Gambat Institute of Medical Sciences",
+    "input": "",
+    "output": "Gambat Institute of Medical Sciences is a Public university located in Khairpur. Contact: 92-243-640160."
+  },
+  {
+    "instruction": "Give details about Pakistan Military Academy",
+    "input": "",
+    "output": "Pakistan Military Academy is a Public university located in Abbottabad. Contact: 92 (0)992 - 363643."
+  },
+  {
+    "instruction": "Give details about PAKISTAN NAVAL ACADEMY",
+    "input": "",
+    "output": "PAKISTAN NAVAL ACADEMY is a Public university located in Karachi. Contact: 0347 1891949."
+  },
+  {
+    "instruction": "Give details about Shuhada-e-Army Public School University of Technology, Nowshera",
+    "input": "",
+    "output": "Shuhada-e-Army Public School University of Technology, Nowshera is a Public university located in Nowshera. Contact: 0923-560301."
+  },
+  {
+    "instruction": "Give details about University of Kotli Azad Jammu and Kashmir",
+    "input": "",
+    "output": "University of Kotli Azad Jammu and Kashmir is a Public university located in Muzzaffarabad. Contact: -965776."
+  },
+  {
+    "instruction": "Give details about University of Baltistan, Skardu",
+    "input": "",
+    "output": "University of Baltistan, Skardu is a Public university located in Skardu. Contact: 05815-960070."
+  },
+  {
+    "instruction": "Give details about University of Loralai",
+    "input": "",
+    "output": "University of Loralai is a Public university located in Lasbela. Contact: (0824) 410782."
+  },
+  {
+    "instruction": "Give details about University of Malakand",
+    "input": "",
+    "output": "University of Malakand is a Public university located in Lower Dir. Contact: 0945-763023 Ext 3011."
+  },
+  {
+    "instruction": "Give details about University of Poonch",
+    "input": "",
+    "output": "University of Poonch is a Public university located in Rawalakot. Contact: +92 5824-960053."
+  },
+  {
+    "instruction": "Give details about Women University of Azad Jammu & Kashmir",
+    "input": "",
+    "output": "Women University of Azad Jammu & Kashmir is a Public university located in Mirpur (AK). Contact: 058-23-960044."
+  },
+  {
+    "instruction": "Give details about Shaheed Benazir Bhutto University",
+    "input": "",
+    "output": "Shaheed Benazir Bhutto University is a Public university located in Amilcar. Contact: -886381."
+  },
+  {
+    "instruction": "Give details about Khushal Khan Khattak University",
+    "input": "",
+    "output": "Khushal Khan Khattak University is a Public university located in Karak. Contact: +92-927- 291018, 291026."
+  },
+  {
+    "instruction": "Give details about Benazir Bhutto Shaheed University of Technology & Skill Development, Khairpur Mirs",
+    "input": "",
+    "output": "Benazir Bhutto Shaheed University of Technology & Skill Development, Khairpur Mirs is a Public university located in Khairpur. Contact: 0243-9280168."
+  },
+  {
+    "instruction": "Give details about Bacha Khan University",
+    "input": "",
+    "output": "Bacha Khan University is a Public university located in Charsadda. Contact: 091-6540116."
+  },
+  {
+    "instruction": "Give details about National University of Technology (NUTECH)",
+    "input": "",
+    "output": "National University of Technology (NUTECH) is a Public university located in Islamabad. Contact: -5476727."
+  },
+  {
+    "instruction": "Give details about Cholistan University of Veterinary and Animal Sciences, Bahawalpur",
+    "input": "",
+    "output": "Cholistan University of Veterinary and Animal Sciences, Bahawalpur is a Public university located in Bahawalpur. Contact: -9255686."
+  },
+  {
+    "instruction": "Give details about Faisalabad Medical University, Faisalabad",
+    "input": "",
+    "output": "Faisalabad Medical University, Faisalabad is a Public university located in Faisalabad. Contact: -9210029."
+  },
+  {
+    "instruction": "Give details about Nishtar Medical University Multan",
+    "input": "",
+    "output": "Nishtar Medical University Multan is a Public university located in Multan. Contact: -9200235."
+  },
+  {
+    "instruction": "Give details about Punjab Tianjin University of Technology, Lahore",
+    "input": "",
+    "output": "Punjab Tianjin University of Technology, Lahore is a Public university located in Lahore. Contact: +92-42-9933 2438."
+  },
+  {
+    "instruction": "Give details about GOVERNMENT COLLEGE UNIVERSITY, HYDERABAD",
+    "input": "",
+    "output": "GOVERNMENT COLLEGE UNIVERSITY, HYDERABAD is a Public university located in Hyderabad. Contact: -2111807."
+  },
+  {
+    "instruction": "Give details about The University of Agriculture, Peshawar",
+    "input": "",
+    "output": "The University of Agriculture, Peshawar is a Public university located in Peshawar. Contact: -9221262."
+  },
+  {
+    "instruction": "Give details about University of Engineering & Technology (UET), Mardan",
+    "input": "",
+    "output": "University of Engineering & Technology (UET), Mardan is a Public university located in Mardan. Contact: -9231140."
+  },
+  {
+    "instruction": "Give details about University of Science & Technology",
+    "input": "",
+    "output": "University of Science & Technology is a Public university located in Bunnu. Contact: -634659."
+  },
+  {
+    "instruction": "Give details about The Bolan University of Medical and Health Sciences, Quetta",
+    "input": "",
+    "output": "The Bolan University of Medical and Health Sciences, Quetta is a Public university located in Quetta. Contact: -9213059."
+  },
+  {
+    "instruction": "Give details about University of Sufism and Modern Sciences, Bhitshah Sindh",
+    "input": "",
+    "output": "University of Sufism and Modern Sciences, Bhitshah Sindh is a Public university located in Bhit Shah. Contact: -2762345."
+  },
+  {
+    "instruction": "Give details about Shaheed Benazir Bhutto University",
+    "input": "",
+    "output": "Shaheed Benazir Bhutto University is a Public university located in Upper Dir. Contact: -886379."
+  },
+  {
+    "instruction": "Give details about The University of Lakki Marwat",
+    "input": "",
+    "output": "The University of Lakki Marwat is a Public university located in Lakki Marwat. Contact: -512696."
+  },
+  {
+    "instruction": "Give details about University of Buner",
+    "input": "",
+    "output": "University of Buner is a Public university located in Buner. Contact: -556058."
+  },
+  {
+    "instruction": "Give details about University of Chitral",
+    "input": "",
+    "output": "University of Chitral is a Public university located in Chitral. Contact: -413252."
+  },
+  {
+    "instruction": "Give details about University of Haripur",
+    "input": "",
+    "output": "University of Haripur is a Public university located in Haripur. Contact: -616296."
+  },
+  {
+    "instruction": "Give details about Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur",
+    "input": "",
+    "output": "Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur is a Public university located in Haripur. Contact: -646033."
+  }
+]
