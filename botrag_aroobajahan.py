@@ -38,20 +38,18 @@ def load_vectorstore():
     embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
     return FAISS.from_documents(docs, embeddings)
 
-# 2. Load LLM Function with Explicit Pipeline Controls
+# 2. Load LLM Function 
 @st.cache_resource
 def load_llm():
     model_id = "google/flan-t5-small" 
     tokenizer = AutoTokenizer.from_pretrained(model_id)
     model = AutoModelForSeq2SeqLM.from_pretrained(model_id)
-
     pipe = pipeline(
-        "text2text-generation",  # Explicitly state task type for Seq2Seq
         model=model, 
         tokenizer=tokenizer, 
         max_new_tokens=256,
-        truncation=True,        # Prevents input context from overflowing token limits
-        device=-1               # Force CPU execution for cloud instances
+        truncation=True,    
+        device=-1
     )
     return HuggingFacePipeline(pipeline=pipe)
 
