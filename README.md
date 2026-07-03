@@ -6,7 +6,7 @@
 A specialized AI chatbot that answers questions about universities in Pakistan using **Retrieval-Augmented Generation (RAG)**. This project uses LangChain, FAISS, and the FLAN-T5-small model to provide accurate, context-aware answers from a custom dataset.
 
 ## 🚀 Live Demo
-Check out the live app here: (https://ragchatbot-6cknbura9trdxhtfrukyqb.streamlit.app/)
+Check out the live app here: ((https://universities-assistant-rag-bot-c4q6jgqg7edqushbm2uasw.streamlit.app/))
 
 ## ✨ Features
 - **Contextual Search:** Uses FAISS vector storage to find the most relevant university data.
