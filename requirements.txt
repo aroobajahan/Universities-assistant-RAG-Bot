@@ -6,5 +6,6 @@ accelerate
 safetensors
 faiss-cpu
 langchain
+langchain-core
 langchain-community
 langchain-huggingface
