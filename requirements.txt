@@ -1,9 +1,11 @@
+--index-url https://download.pytorch.org/whl/cpu
+torch
 streamlit
 pandas
-torch --index-url https://download.pytorch.org/whl/cpu
 transformers
 sentence-transformers
 faiss-cpu
 langchain
 langchain-community
 langchain-huggingface
+langchain-text-splitters
