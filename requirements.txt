@@ -1,10 +1,10 @@
 streamlit
-pandas
 torch
 transformers
 sentence-transformers
+accelerate
+safetensors
 faiss-cpu
 langchain
 langchain-community
 langchain-huggingface
-langchain-text-splitters
