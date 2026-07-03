@@ -1,7 +1,6 @@
---index-url https://download.pytorch.org/whl/cpu
-torch
 streamlit
 pandas
+torch
 transformers
 sentence-transformers
 faiss-cpu
