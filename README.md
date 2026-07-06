@@ -23,5 +23,5 @@ App link: https://universities-assistant-rag-bot-c4q6jgqg7edqushbm2uasw.streamli
 
 ## Tech stack
 **Framework**: Streamlit
-**Retrieval**: LangChain + FAISS (hybrid: dense embeddings + fuzzy keyword re-ranking)
+**Retrieval**: LangChain + FAISS (hybrid: dense embeddings + distinguishing-keyword overlap
 **Embeddings**: HuggingFace `all-MiniLM-L6-v2`
