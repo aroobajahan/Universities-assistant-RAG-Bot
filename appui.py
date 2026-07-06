@@ -5,7 +5,7 @@ from botrag_aroobajahan import ask_rag
 st.set_page_config(page_title="RAG Chatbot", layout="centered")
 
 st.title("RAG Chatbot")
-st.write("Ask questions from your document")
+st.write("Ask questions about universities in Pakistan")
 
 # Chat history
 if "messages" not in st.session_state:
