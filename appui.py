@@ -28,16 +28,7 @@ if prompt:
     # Bot response
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
-            answer, debug_info = ask_rag(prompt, with_debug=True)
+            answer = ask_rag(prompt)
             st.markdown(answer)
-
-            if debug_info.get("candidates"):
-                with st.expander("🔍 Retrieval scores (for tuning)"):
-                    st.caption(f"Threshold: {debug_info['threshold']}")
-                    for c in debug_info["candidates"]:
-                        st.write(
-                            f"**combined `{c['combined']}`** "
-                            f"(dense `{c['dense']}`, keyword `{c['keyword']}`) — {c['question']}"
-                        )
 
     st.session_state.messages.append({"role": "assistant", "content": answer})
