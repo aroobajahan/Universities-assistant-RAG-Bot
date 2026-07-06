@@ -22,8 +22,6 @@ App link: https://universities-assistant-rag-bot-c4q6jgqg7edqushbm2uasw.streamli
 ```
 
 ## Tech stack
-- **Framework:** Streamlit
-- **LLM orchestration:** LangChain 0.2
-- **Model:** Google FLAN-T5-Small
-- **Vector database:** FAISS (CPU)
-- **Embeddings:** HuggingFace `all-MiniLM-L6-v2`
+Framework: Streamlit
+Retrieval: LangChain + FAISS (hybrid: dense embeddings + fuzzy keyword re-ranking)
+Embeddings: HuggingFace all-MiniLM-L6-v2
