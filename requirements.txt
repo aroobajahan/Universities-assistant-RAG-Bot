@@ -3,7 +3,6 @@ torch==2.4.1
 safetensors==0.4.5
 faiss-cpu==1.8.0.post1
 sentence-transformers==3.0.1
-rapidfuzz==3.9.6
 langchain-core==0.2.38
 langchain-community==0.2.16
 langchain-huggingface==0.0.3
